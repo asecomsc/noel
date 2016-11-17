@@ -1,3 +1,17 @@
+2016-11-05   v2
+##Caracteristicas de la version
+* crear tablas: compras, compras Detalle, Proveedores, Descripciones
+* formulario master/detail: compras/compras Detalle
+* cuadro combinado proveedor / descripciones
+- cb.dropdown
+- evento:  not in list, agregue el nuevo valor 
+- filas en la lista: 6 
+- detail: compraID esconder 
+- agregar: subtotal / iva /total
+- bloquear: importe ( precio extendido), para evitar punto de tabulacion
+- detail: importe quitar #Err con NZ
+
+
 2016-10-28   v1
 
 #OBJETIVOS DEL PROGRAMA:
