@@ -1,5 +1,14 @@
-2016-11-05   v2
-##Caracteristicas de la version
+##2016-11-18   v3
+* tabla servicios
+* formulario servicios
+* formulario ppal, agregar servicios
+* logotipo compras y servicios
+* compras - servicios modal: listbox
+- emergente ( no new tab ) 
+- modal (hasta cerrar poder continuar)
+
+
+##2016-11-05   v2
 * crear tablas: compras, compras Detalle, Proveedores, Descripciones
 * formulario master/detail: compras/compras Detalle
 * cuadro combinado proveedor / descripciones
@@ -12,15 +21,7 @@
 - detail: importe quitar #Err con NZ
 
 
-2016-10-28   v1
-
-#OBJETIVOS DEL PROGRAMA:
-1. A quien se le va a poner ( Unidades {tipos:[Auxiliares, Rutas, Autotanques]} )
-2. Que se le hizo ( Refacciones )
-3. Reportes: mensuales, anuales.
-4. Cuanto se gastó.
-
-##Actividades en esta version.
+##2016-10-28   v1
 * tabla de usuarios.
 * tabla de unidades.
 * formulario de usuarios.
@@ -32,3 +33,9 @@
 * dividir base de datos: datos y captura
 * formulario unidades:  tipo de unidad - Marco que mantenga el ultimo valor.
 
+
+#OBJETIVOS DEL PROGRAMA:
+1. A quien se le va a poner ( Unidades {tipos:[Auxiliares, Rutas, Autotanques]} )
+2. Que se le hizo ( Refacciones )
+3. Reportes: mensuales, anuales.
+4. Cuanto se gastó.
