@@ -1,11 +1,19 @@
+##2016-12-02   v4
+* Mover tabla "servicios" de fEnd a bEnd
+* Compras-Subform cBox descripcion "order asc"
+* **Change:**  "servicioID" de formModal a Cbox  en subform "Compras Detalle" 
+  * Agregar CampoDeBusqueda “servicioID” a tabla “descripciones”
+  * Agregar "servicioID" a subform "Compras Detalle"
+
+
 ##2016-11-18   v3
 * tabla servicios
 * formulario servicios
 * formulario ppal, agregar servicios
 * logotipo compras y servicios
 * compras - servicios modal: listbox
-- emergente ( no new tab ) 
-- modal (hasta cerrar poder continuar)
+  * emergente ( no new tab ) 
+  * modal (hasta cerrar poder continuar)
 
 
 ##2016-11-05   v2
