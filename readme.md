@@ -1,3 +1,18 @@
+##2016-12-17   v5
+* Servicio - cBox: newrec & dropdown
+* form servicioModal - eliminar & code to open it.
+* copiar "compras Detalle Subform" como "compras Detalle Subform2
+*  form blanco "taller"
+  * drag "compras Detalle Subform"
+  * Servicio - lBox y Encabezado
+  * Tipo unidades - gBox
+  * unidades - form hoja & encabezados y sin logo
+* Servicio tab 
+  * tabStop = NO
+  * descuento/lostfocus si servicioID es nulo, entonces
+  servicioID.setfocus
+
+  
 ##2016-12-02   v4
 * Mover tabla "servicios" de fEnd a bEnd
 * Compras-Subform cBox descripcion "order asc"
