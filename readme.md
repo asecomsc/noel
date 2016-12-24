@@ -1,3 +1,14 @@
+##2016-12-23   v6
+* form taller
+  * servicio cBox After Update - filtra "compras Detalle Subform"
+  * "compras Detalle Subform" - quitar dropdown & not in list
+  * filter using lBox "Servicio"
+  * lBox "tipo de unidades" 
+    * ubound
+	* selected value (index + 1), different than bound ( column 0)
+	* propiedad "filter on load" - activar
+	* filter using lBox "Unidades"
+	
 ##2016-12-17   v5
 * Servicio - cBox: newrec & dropdown
 * form servicioModal - eliminar & code to open it.
@@ -11,7 +22,6 @@
   * tabStop = NO
   * descuento/lostfocus si servicioID es nulo, entonces
   servicioID.setfocus
-
   
 ##2016-12-02   v4
 * Mover tabla "servicios" de fEnd a bEnd
@@ -19,7 +29,6 @@
 * **Change:**  "servicioID" de formModal a Cbox  en subform "Compras Detalle" 
   * Agregar CampoDeBusqueda “servicioID” a tabla “descripciones”
   * Agregar "servicioID" a subform "Compras Detalle"
-
 
 ##2016-11-18   v3
 * tabla servicios
@@ -29,7 +38,6 @@
 * compras - servicios modal: listbox
   * emergente ( no new tab ) 
   * modal (hasta cerrar poder continuar)
-
 
 ##2016-11-05   v2
 * crear tablas: compras, compras Detalle, Proveedores, Descripciones
@@ -45,6 +53,19 @@
 
 
 ##2016-10-28   v1
+
+
+
+
+
+
+
+
+
+
+
+
+
 * tabla de usuarios.
 * tabla de unidades.
 * formulario de usuarios.
