@@ -1,3 +1,9 @@
+##2016-12-30   v7
+* form taller, eliminar cBox/lBox tipo de unidades/unidades
+* BE crear tabla de choferes y FE link
+* crear form datasheet choferes
+* form taller agregar subform chofer & sort asc ( default )
+
 ##2016-12-23   v6
 * form taller
   * servicio cBox After Update - filtra "compras Detalle Subform"
