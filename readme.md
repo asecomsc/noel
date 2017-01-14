@@ -1,3 +1,18 @@
+##2017-01-06   v8
+* taller
+  * subform quitar columna "servicio"
+  * renombrar columna "cant" x "exist"
+  * resize subform ( descripcion, exist )
+  * quitar subform "choferes"
+  * agregar lBox "choferes"
+* form rediseño "choferes" & sorted
+* form unidades - quitar columna "chofer"
+* tabla unidades - eliminar campo "chofer"
+* form "unidades hoja" - eliminar
+* replace unidad buttons x option group toggle buttons
+* new form numpad & embed into taller
+* numpad - macro, module1, function miNum()
+
 ##2016-12-30   v7
 * form taller, eliminar cBox/lBox tipo de unidades/unidades
 * BE crear tabla de choferes y FE link
