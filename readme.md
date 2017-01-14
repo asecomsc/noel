@@ -1,3 +1,12 @@
+##2017-01-13   v9
+* numpad
+  * flecha izq y enter ( update tbChofer )
+  * boton edit, activa/desactiva simultaneamente numpad/list box
+  * boton edit, modifica lBox recordsource segun Frame/toggle buttons
+  * boton edit, lBox update actualiza tbChofer
+  * borrar y hacer de nuevo form unidades
+  * agregar boton para abrir form taller 
+
 ##2017-01-06   v8
 * taller
   * subform quitar columna "servicio"
