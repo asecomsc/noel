@@ -1,3 +1,6 @@
+##2017-01-20   v10
+  * definir como agregar columna de cant a cargar ( asset\noel-cargar.gif)
+  * al seleccionar lista-servicio se mueve numpad de unidades hacia a un costado de partidas a cargar
 ##2017-01-13   v9
 * numpad
   * flecha izq y enter ( update tbChofer )
