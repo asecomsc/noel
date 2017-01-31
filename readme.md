@@ -1,3 +1,8 @@
+##2017-01-27   v11
+* numpad ya funciona con Unidades y cargar ( digito, backspace, enter )
+* tabla "compras detalle" agregar campo exist
+* numpad se posiciona cerca del control donde se hace el enfoque
+
 ##2017-01-20   v10
   * definir como agregar columna de cant a cargar ( asset\noel-cargar.gif)
   * al seleccionar lista-servicio se mueve numpad de unidades hacia a un costado de partidas a cargar
