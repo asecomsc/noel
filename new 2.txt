@@ -1,4 +1,0 @@
-    elnum = Screen.ActiveControl.Name
-    prevcont.SetFocus
-    prevcont.Name.SelStart = 0
-    SendKeys "{end}" & elnum

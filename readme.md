@@ -1,7 +1,9 @@
-##2017-01-27   v11
+##2017-02-03   v11
 * numpad ya funciona con Unidades y cargar ( digito, backspace, enter )
 * tabla "compras detalle" agregar campo exist
 * numpad se posiciona cerca del control donde se hace el enfoque
+* compras, focus en Unidades fix err al pulsar 1er digito
+* crear tabla salidas, donde se almacenará todo lo que se cargue
 
 ##2017-01-20   v10
   * definir como agregar columna de cant a cargar ( asset\noel-cargar.gif)
