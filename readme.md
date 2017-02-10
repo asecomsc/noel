@@ -1,3 +1,8 @@
+##2017-02-10   v12
+* lBox refacciones a cargar
+* msBox carga > exist
+* cargar-enter crea reg en salidas y new item en lBox
+
 ##2017-02-03   v11
 * numpad ya funciona con Unidades y cargar ( digito, backspace, enter )
 * tabla "compras detalle" agregar campo exist
