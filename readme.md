@@ -1,3 +1,14 @@
+##2017-02-25   v14
+* A partir de ahora, el commit de arranque de nueva version será: -m "v14 bla bla" y las siguientes modificaciones no haran referencia a la version.
+* lo anterior es diferente, porque hasta que no terminaba la version, habia muchas modificaciones intermedias, lo que busco ahora es poder poder regresarme a la modif anterior sin tener que rehacer muchos detalles.
+como comentario
+* taller on load - abrir login modal via macro
+* taller-boton, ahora abre login
+
+##2017-02-17   v13
+* subform acceso, para hacer login
+* salidas ahora usa 2 tablas ( M/D )
+
 ##2017-02-10   v12
 * lBox refacciones a cargar
 * msBox carga > exist
