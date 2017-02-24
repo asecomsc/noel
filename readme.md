@@ -7,7 +7,8 @@ como comentario
 * entra a taller si se captura correctamente la contraseña
 * btn Guardar ( antes se llamaba Finalizar ) 
 	* update tb salidas Detalle salidaID
-
+	* refresh lb y num Unidades " "
+	
 ##2017-02-17   v13
 * subform acceso, para hacer login
 * salidas ahora usa 2 tablas ( M/D )
