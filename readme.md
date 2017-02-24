@@ -4,6 +4,9 @@
 como comentario
 * change: newFrm login modal 
 * taller-boton, abre 2 forms:  1st-taller, 2nd-login
+* entra a taller si se captura correctamente la contraseña
+* btn Guardar ( antes se llamaba Finalizar ) 
+	* update tb salidas Detalle salidaID
 
 ##2017-02-17   v13
 * subform acceso, para hacer login
