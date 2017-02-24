@@ -2,8 +2,8 @@
 * A partir de ahora, el commit de arranque de nueva version será: -m "v14 bla bla" y las siguientes modificaciones no haran referencia a la version.
 * lo anterior es diferente, porque hasta que no terminaba la version, habia muchas modificaciones intermedias, lo que busco ahora es poder poder regresarme a la modif anterior sin tener que rehacer muchos detalles.
 como comentario
-* taller on load - abrir login modal via macro
-* taller-boton, ahora abre login
+* change: newFrm login modal 
+* taller-boton, abre 2 forms:  1st-taller, 2nd-login
 
 ##2017-02-17   v13
 * subform acceso, para hacer login
