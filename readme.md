@@ -1,3 +1,8 @@
+##2017-03-03   v14a
+salidas
+* agregar Master record
+* agregar a Detail: precio y desc 
+
 ##2017-02-25   v14
 * A partir de ahora, el commit de arranque de nueva version será: -m "v14 bla bla" y las siguientes modificaciones no haran referencia a la version.
 * lo anterior es diferente, porque hasta que no terminaba la version, habia muchas modificaciones intermedias, lo que busco ahora es poder poder regresarme a la modif anterior sin tener que rehacer muchos detalles.
@@ -8,6 +13,7 @@ como comentario
 * btn Guardar ( antes se llamaba Finalizar ) 
 	* update tb salidas Detalle salidaID
 	* refresh lb y num Unidades " "
+	* openfrm login
 	
 ##2017-02-17   v13
 * subform acceso, para hacer login
