@@ -1,3 +1,6 @@
+##2017-02-10   v15
+reporte de salidas
+
 ##2017-03-03   v14a
 salidas
 * agregar Master record
