@@ -1,12 +1,15 @@
-##2017-02-10   v15
-reporte de salidas
+## 2017-03-24   v16
+* fix: msg "no cabe el reporte"
 
-##2017-03-03   v14a
-salidas
-* agregar Master record
-* agregar a Detail: precio y desc 
+## 2017-02-10   v15
+* reporte de salidas
 
-##2017-02-25   v14
+## 2017-03-03   v14a
+* salidas
+  * agregar Master record
+  * agregar a Detail: precio y desc 
+
+## 2017-02-25   v14
 * A partir de ahora, el commit de arranque de nueva version será: -m "v14 bla bla" y las siguientes modificaciones no haran referencia a la version.
 * lo anterior es diferente, porque hasta que no terminaba la version, habia muchas modificaciones intermedias, lo que busco ahora es poder poder regresarme a la modif anterior sin tener que rehacer muchos detalles.
 como comentario
@@ -18,27 +21,27 @@ como comentario
 	* refresh lb y num Unidades " "
 	* openfrm login
 	
-##2017-02-17   v13
+## 2017-02-17   v13
 * subform acceso, para hacer login
 * salidas ahora usa 2 tablas ( M/D )
 
-##2017-02-10   v12
+## 2017-02-10   v12
 * lBox refacciones a cargar
 * msBox carga > exist
 * cargar-enter crea reg en salidas y new item en lBox
 * btFinalizar abre usuarios-modal
 
-##2017-02-03   v11
+## 2017-02-03   v11
 * numpad ya funciona con Unidades y cargar ( digito, backspace, enter )
 * tabla "compras detalle" agregar campo exist
 * numpad se posiciona cerca del control donde se hace el enfoque
 * compras, focus en Unidades fix err al pulsar 1er digito
 * crear tabla salidas, donde se almacenará todo lo que se cargue
 
-##2017-01-20   v10
+## 2017-01-20   v10
   * definir como agregar columna de cant a cargar ( asset\noel-cargar.gif)
   * al seleccionar lista-servicio se mueve numpad de unidades hacia a un costado de partidas a cargar
-##2017-01-13   v9
+## 2017-01-13   v9
 * numpad
   * flecha izq y enter ( update tbChofer )
   * boton edit, activa/desactiva simultaneamente numpad/list box
@@ -47,7 +50,7 @@ como comentario
   * borrar y hacer de nuevo form unidades
   * agregar boton para abrir form taller 
 
-##2017-01-06   v8
+## 2017-01-06   v8
 * taller
   * subform quitar columna "servicio"
   * renombrar columna "cant" x "exist"
@@ -62,13 +65,13 @@ como comentario
 * new form numpad & embed into taller
 * numpad - macro, module1, function miNum()
 
-##2016-12-30   v7
+## 2016-12-30   v7
 * form taller, eliminar cBox/lBox tipo de unidades/unidades
 * BE crear tabla de choferes y FE link
 * crear form datasheet choferes
 * form taller agregar subform chofer & sort asc ( default )
 
-##2016-12-23   v6
+## 2016-12-23   v6
 * form taller
   * servicio cBox After Update - filtra "compras Detalle Subform"
   * "compras Detalle Subform" - quitar dropdown & not in list
@@ -79,7 +82,7 @@ como comentario
 	* propiedad "filter on load" - activar
 	* filter using lBox "Unidades"
 	
-##2016-12-17   v5
+## 2016-12-17   v5
 * Servicio - cBox: newrec & dropdown
 * form servicioModal - eliminar & code to open it.
 * copiar "compras Detalle Subform" como "compras Detalle Subform2
@@ -93,14 +96,14 @@ como comentario
   * descuento/lostfocus si servicioID es nulo, entonces
   servicioID.setfocus
   
-##2016-12-02   v4
+## 2016-12-02   v4
 * Mover tabla "servicios" de fEnd a bEnd
 * Compras-Subform cBox descripcion "order asc"
 * **Change:**  "servicioID" de formModal a Cbox  en subform "Compras Detalle" 
   * Agregar CampoDeBusqueda “servicioID” a tabla “descripciones”
   * Agregar "servicioID" a subform "Compras Detalle"
 
-##2016-11-18   v3
+## 2016-11-18   v3
 * tabla servicios
 * formulario servicios
 * formulario ppal, agregar servicios
@@ -109,7 +112,7 @@ como comentario
   * emergente ( no new tab ) 
   * modal (hasta cerrar poder continuar)
 
-##2016-11-05   v2
+## 2016-11-05   v2
 * crear tablas: compras, compras Detalle, Proveedores, Descripciones
 * formulario master/detail: compras/compras Detalle
 * cuadro combinado proveedor / descripciones
@@ -122,20 +125,7 @@ como comentario
 - detail: importe quitar #Err con NZ
 
 
-##2016-10-28   v1
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 2016-10-28   v1
 * tabla de usuarios.
 * tabla de unidades.
 * formulario de usuarios.
@@ -148,7 +138,7 @@ como comentario
 * formulario unidades:  tipo de unidad - Marco que mantenga el ultimo valor.
 
 
-#OBJETIVOS DEL PROGRAMA:
+# OBJETIVOS DEL PROGRAMA:
 1. A quien se le va a poner ( Unidades {tipos:[Auxiliares, Rutas, Autotanques]} )
 2. Que se le hizo ( Refacciones )
 3. Reportes: mensuales, anuales.

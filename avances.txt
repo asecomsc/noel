@@ -1,0 +1,7 @@
+1. REPORTES
+	a. msg, no cabe el reporte
+	b. mismo chofer 
+
+2. impre laser config
+3. conectar switch y probar conexion en red
+	
