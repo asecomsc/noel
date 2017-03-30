@@ -1,6 +1,5 @@
-1. REPORTES
-	a. msg, no cabe el reporte
-	b. mismo chofer 
+1. REPORTE GENERAL
+	a. ya filtra usando form dialog fechas
 
 2. impre laser config
 3. conectar switch y probar conexion en red

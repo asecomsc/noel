@@ -1,3 +1,6 @@
+## 2017-03-31   v17
+* change: rpt_salidas detalle, filtra con frm_dialog fechas
+
 ## 2017-03-24   v16
 * fix: msg "no cabe el reporte"
 
