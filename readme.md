@@ -1,5 +1,6 @@
 ## 2017-03-31   v17
 * change: rpt_salidas detalle, filtra con frm_dialog fechas
+* change: rpt salidas detalle, ahora muestra: RT 1, AT 5, 3000
 
 ## 2017-03-24   v16
 * fix: msg "no cabe el reporte"

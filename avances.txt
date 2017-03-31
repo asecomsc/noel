@@ -1,5 +1,6 @@
 1. REPORTE GENERAL
 	a. ya filtra usando form dialog fechas
+	b. muestra el tipo de unidad como texto: RT, AT, numero
 
 2. impre laser config
 3. conectar switch y probar conexion en red
