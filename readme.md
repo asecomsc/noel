@@ -1,4 +1,7 @@
-## 2017-03-31   v17
+## 2017-04-07  v18
+* repo1 general, suma por grupo con linea, gran total, nomemp en page footer
+
+## 2017-03-31  v17
 * repo1: gastos general
 	* filtra con frm_dialog fechas
 	* change: rpt salidas detalle, ahora muestra: RT 1, AT 5, 3000
