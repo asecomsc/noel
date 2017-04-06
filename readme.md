@@ -1,6 +1,11 @@
 ## 2017-03-31   v17
-* change: rpt_salidas detalle, filtra con frm_dialog fechas
-* change: rpt salidas detalle, ahora muestra: RT 1, AT 5, 3000
+* repo1: gastos general
+	* filtra con frm_dialog fechas
+	* change: rpt salidas detalle, ahora muestra: RT 1, AT 5, 3000
+* repo2: gastos por unidad  
+	* dialog fechas_unidad
+* repo3: requisicion
+
 
 ## 2017-03-24   v16
 * fix: msg "no cabe el reporte"

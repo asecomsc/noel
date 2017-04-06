@@ -1,7 +1,11 @@
-1. REPORTE GENERAL
+1. MENU
+2. REPORTE1 GENERAL
 	a. ya filtra usando form dialog fechas
 	b. muestra el tipo de unidad como texto: RT, AT, numero
+3. REPORTE2  POR UNIDAD
+4. REPORTE3  REQUISICION
 
-2. impre laser config
-3. conectar switch y probar conexion en red
+
+* impre laser config
+* conectar switch y probar conexion en red
 	
