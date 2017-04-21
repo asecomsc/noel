@@ -1,5 +1,9 @@
+## 2017-04-13  v19
+* impresion hacia miniprinter
+
 ## 2017-04-07  v18
 * repo1 general, suma por grupo con linea, gran total, nomemp en page footer
+* impre epson termina de ticket - configurar
 
 ## 2017-03-31  v17
 * repo1: gastos general

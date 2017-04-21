@@ -1,0 +1,14 @@
+1. intenté descargar de internet = neg
+2. en dispositivos > usb no func > actualizar drivers > en este equipo y reconoció el cdrom ( carpeta windows  y subcarpetas )
+- no pude imprimir desde notepad
+- aparece en: dispositivos e impresoras > NO ESPECIFICADO
+- apague y encendi, me mando un msg que esa impresora POSIBLEMENTE no soporte USB3, asi que lo cambié a un puerto USB2.
+3. en el cd un documento pdf dice que hay que descargar drivers actualizados de internet
+goo: windows 10 tm-t88v
+https://download.epson-biz.com/modules/pos/index.php?page=single_soft&cid=5131&scat=31&pcat=3
+- descomprimir zip
+- apagar
+- EJECUTAR COMO ADMIN:  apd_507_T88V
+al final del asistente, escoger tipo de conexion: USB
+prender la impre
+hacer una prueba de impresion... LISTO!!
