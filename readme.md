@@ -1,7 +1,15 @@
-## 2017-04-13  v19
+## 2017-04-27  v20
+* tabla "choferes" add field tipo
+* taller, btn lista de choferes filtra ahora de choferes (antes lo hacia de unidades).
+ 
+
+## 2017-04-21  v19
+* merge acer/sergio-pc impresion a miniprinter
+
+## 2017-04-13  v18b
 * impresion hacia miniprinter
 
-## 2017-04-07  v18
+## 2017-04-07  v18a
 * repo1 general, suma por grupo con linea, gran total, nomemp en page footer
 * impre epson termina de ticket - configurar
 
