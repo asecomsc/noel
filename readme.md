@@ -1,7 +1,13 @@
 ## 2017-04-27  v20
 * tabla "choferes" add field tipo
 * taller, btn lista de choferes filtra ahora de choferes (antes lo hacia de unidades).
- 
+* taller, borrar salida
+  * tabla "compras Detalle" add field PK "compradetID"
+  * tabla "salidas Detalle" add field FK "compradetID"
+  * keyb "enter" case cargar, misql add field "compradetID"
+  * frm "Choferes" add field tipo
+  * boton "borrar", PEND
+  
 
 ## 2017-04-21  v19
 * merge acer/sergio-pc impresion a miniprinter
