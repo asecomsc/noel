@@ -1,4 +1,6 @@
-1. FIX: taller - lista choferes ( ya no filtra desde unidades )
+
+1. boton requisicion - quitar
+2. boton borrar
 
 
 

@@ -1,3 +1,9 @@
+## 2017-05-04  v21
+* taller, borrar salida ( TERMINADO )
+  * aumenta exist en "compras Detalle"
+  * borra reg "salidas Detalle" con "compradetID = lBox.col(0)"
+  * lBox refresh
+
 ## 2017-04-27  v20
 * tabla "choferes" add field tipo
 * taller, btn lista de choferes filtra ahora de choferes (antes lo hacia de unidades).
