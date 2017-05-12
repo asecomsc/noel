@@ -1,3 +1,7 @@
+## 2017-05-12  v22
+* bug: frm compras, ya graba exist ( al update cant )
+* red - la carpeta del servidor es: \\taller\noel\sist mtto_be.accdb
+
 ## 2017-05-04  v21
 * taller, borrar salida ( TERMINADO )
   * aumenta exist en "compras Detalle"
