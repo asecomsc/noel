@@ -1,0 +1,52 @@
+1-11 prov
+12-21 prod
+22-28 servicios
+
+
+Objetivos del programa
+Especificar a quien se le cargará refacciones
+	- chofer
+	- unidad
+Control de inventarios ( entradas, salidas y existencias )
+Emision de requisiciones
+Reporte que se le hizo a las unidades
+Reporte cuanto se gastó: mensual, anual ó por fechas
+	
+
+3.	Caracteristicas 
+3.1.	Compras de refacciones
+3.2.	Control de inventarios 
+ entradas
+ salidas  
+ existencias
+        Control de gastos
+
+		
+2.	Ventajas
+facil y rapido de operar
+* entradas: 
+	no se necesita un almacenista
+	facil: no hay que dar de alta prod, luego compra y por ultimo salida de almacen
+	rapido 
+		busqueda de proveedores, refacciones, servicios "tipo google"
+
+* salidas:
+	los mecanicos consumen de forma instantanea la captura reciente de compra
+	al usar touch, el registro es facil y rapido
+	se evita el uso de papel ( al final se imprime la requisicion )
+	se evita la omisión de informacion
+	
+
+2.1.	Software Diseño dual:
+2.1.1.	 entradas usan mouse/teclado
+2.1.2.	Salidas con equipo touch
+2.2.	Ahorro en papeleria ( requsiciones, ahora se usa ticket )
+
+1.8.	Inventarios
+1.8.1.	Entradas ( compras )
+1.8.2.	Salidas ( unidad: carga de refacciones )
+
+1.5.	Repo gral 
+1.6.	Repo por unidad
+1.7.	Print requisicion 
+1.9.	Reporte de gastos ( de todas las unidades o una unidad ) por fecha

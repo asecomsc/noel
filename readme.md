@@ -1,3 +1,6 @@
+## 2017-05-26  v23
+* bug: rpt salidas Detalle - no corre
+
 ## 2017-05-12  v22
 * bug: frm compras, ya graba exist ( al update cant )
 * red - la carpeta del servidor es: \\taller\noel\sist mtto_be.accdb
