@@ -1,5 +1,7 @@
 ## 2017-05-26  v23
-* bug: rpt salidas Detalle - no corre
+* bug: rpt Gastos General - fixed
+* bug: rpt Gastos por Unidad - fixed
+* change: print requisicion con 3 copias
 
 ## 2017-05-12  v22
 * bug: frm compras, ya graba exist ( al update cant )
