@@ -1,3 +1,7 @@
+## 2017-06-02  v24
+* fix: rpt gastos x unidad, despues de ejecutar ya no se tiene que seleccionar
+* fix: usuarios, se creó nuevamente y ya se abre ok
+
 ## 2017-05-26  v23
 * bug: rpt Gastos General - fixed
 * bug: rpt Gastos por Unidad - fixed
