@@ -1,3 +1,6 @@
+## 2017-06-16  v25
+* macro LOGIN, mediante acceso directo se puede abrir unicamente form Taller
+
 ## 2017-06-02  v24
 * fix: rpt gastos x unidad, despues de ejecutar ya no se tiene que seleccionar
 * fix: usuarios, se creó nuevamente y ya se abre ok
