@@ -1,6 +1,7 @@
 ## 2017-06-16  v25
 * macro LOGIN, mediante acceso directo se puede abrir unicamente form Taller
 * atfer LOGIN reconozca-refresque nuevos servicios(Lista1)
+* REQUISICION rpt, agregar chofer
 
 ## 2017-06-02  v24
 * fix: rpt gastos x unidad, despues de ejecutar ya no se tiene que seleccionar
