@@ -1,3 +1,9 @@
+## 2017-07-07  v26
+* rpt requisicion
+  * fix: code to print nomChofer
+  * new: unidad
+  * nom empresa y box en texto requisicion
+
 ## 2017-06-16  v25
 * macro LOGIN, mediante acceso directo se puede abrir unicamente form Taller
 * atfer LOGIN reconozca-refresque nuevos servicios(Lista1)
