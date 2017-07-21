@@ -1,3 +1,8 @@
+## 2017-07-21  v27a
+* refacciones en 0, no aparezcan
+* boton salir
+* login resize
+
 ## 2017-07-07  v26
 * rpt requisicion
   * fix: code to print nomChofer
