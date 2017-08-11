@@ -1,3 +1,7 @@
+## 2017-07-28  v27b
+* compras quitar totales
+* fix: pass sin user muestra msg de error
+
 ## 2017-07-21  v27a
 * refacciones en 0, no aparezcan
 * boton salir
