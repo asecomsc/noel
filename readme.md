@@ -1,3 +1,6 @@
+## 2017-08-11 v28
+* compra, sort by descripcion
+
 ## 2017-07-28  v27b
 * compras quitar totales
 * fix: pass sin user muestra msg de error
