@@ -1,3 +1,7 @@
+## 2017-08-18 v29
+* lbServicios alargar
+* prototipo rendimientos
+
 ## 2017-08-11 v28
 * compra, sort by descripcion
 
