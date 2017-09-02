@@ -1,3 +1,6 @@
+## 2017-09-01 v30
+* change: ui rendimientos 
+
 ## 2017-08-18 v29
 * lbServicios alargar
 * prototipo rendimientos
